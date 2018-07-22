@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Ed Heltzel",
+      "authorEmail": "ed@portside.io",
+      "authorUrl": "https://github.com/ginfuru"
+    }
+  }
+}
